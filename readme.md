@@ -11,3 +11,4 @@ This project will measure and report sea temp
 - Raspberry Pi v4
 - Python 3.3
 - BME680 envvironment sensor
+- Sigfox adapter
